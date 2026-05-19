@@ -1,0 +1,3 @@
+[submodule "frontend-service-for-labor-market-analysis"]
+	path = frontend-service-for-labor-market-analysis
+	url = https://github.com/B2ng4/frontend-service-for-labor-market-analysis.git
